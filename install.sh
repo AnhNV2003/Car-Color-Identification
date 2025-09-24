@@ -1,0 +1,1 @@
+gdown --folder "https://drive.google.com/drive/folders/1WYVzlObJFtClKQOgCGfYXJI2rrPq9sqm?usp=sharing" -O /home/vanh/anhnv/color_paper/tools
