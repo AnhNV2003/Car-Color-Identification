@@ -131,7 +131,7 @@ def run(triton: Triton, dataset: str, base_dir: str):
 if __name__ == "__main__":
     if len(sys.argv) < 3:
         print("Usage: python main.py <dataset> <backend>")
-        print("Example: python main.py hazy onnx")
+        print("Example: python main.py hazy/night onnx/tensorrt/torch")
         sys.exit(1)
     
     dataset = sys.argv[1]
